@@ -1,0 +1,17 @@
+C:\Users\ozang\source\repos\FileDownloadApp\FileDownloadApp\bin\Debug\net8.0-windows\FileDownloadApp.exe
+C:\Users\ozang\source\repos\FileDownloadApp\FileDownloadApp\bin\Debug\net8.0-windows\FileDownloadApp.deps.json
+C:\Users\ozang\source\repos\FileDownloadApp\FileDownloadApp\bin\Debug\net8.0-windows\FileDownloadApp.runtimeconfig.json
+C:\Users\ozang\source\repos\FileDownloadApp\FileDownloadApp\bin\Debug\net8.0-windows\FileDownloadApp.dll
+C:\Users\ozang\source\repos\FileDownloadApp\FileDownloadApp\bin\Debug\net8.0-windows\FileDownloadApp.pdb
+C:\Users\ozang\source\repos\FileDownloadApp\FileDownloadApp\obj\Debug\net8.0-windows\FileDownloadApp.csproj.GenerateResource.cache
+C:\Users\ozang\source\repos\FileDownloadApp\FileDownloadApp\obj\Debug\net8.0-windows\FileDownloadApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozang\source\repos\FileDownloadApp\FileDownloadApp\obj\Debug\net8.0-windows\FileDownloadApp.AssemblyInfoInputs.cache
+C:\Users\ozang\source\repos\FileDownloadApp\FileDownloadApp\obj\Debug\net8.0-windows\FileDownloadApp.AssemblyInfo.cs
+C:\Users\ozang\source\repos\FileDownloadApp\FileDownloadApp\obj\Debug\net8.0-windows\FileDownloadApp.csproj.CoreCompileInputs.cache
+C:\Users\ozang\source\repos\FileDownloadApp\FileDownloadApp\obj\Debug\net8.0-windows\FileDownloadApp.dll
+C:\Users\ozang\source\repos\FileDownloadApp\FileDownloadApp\obj\Debug\net8.0-windows\refint\FileDownloadApp.dll
+C:\Users\ozang\source\repos\FileDownloadApp\FileDownloadApp\obj\Debug\net8.0-windows\FileDownloadApp.pdb
+C:\Users\ozang\source\repos\FileDownloadApp\FileDownloadApp\obj\Debug\net8.0-windows\FileDownloadApp.genruntimeconfig.cache
+C:\Users\ozang\source\repos\FileDownloadApp\FileDownloadApp\obj\Debug\net8.0-windows\ref\FileDownloadApp.dll
+C:\Users\ozang\source\repos\FileDownloadApp\FileDownloadApp\obj\Debug\net8.0-windows\FileDownloadApp.Form1.resources
+C:\Users\ozang\source\repos\FileDownloadApp\FileDownloadApp\obj\Debug\net8.0-windows\FileDownloadApp.Properties.Resources.resources
